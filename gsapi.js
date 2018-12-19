@@ -1,4 +1,4 @@
-var zac_bot_token = "750498904:AAFzHVbVsRBTt3TG0H1qjp0vmNKOVn0DhpI";
+var zac_bot_token = "this key is Private";
 var zac_url = "https://api.telegram.org/bot" + zac_bot_token;
 
 
